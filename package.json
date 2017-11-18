@@ -1,0 +1,24 @@
+{
+  "name": "react-drag-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suxiaoxin/react-drag-sort.git"
+  },
+  "keywords": [
+    "drag",
+    "sort",
+    "react"
+  ],
+  "author": "suxiaoxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suxiaoxin/react-drag-sort/issues"
+  },
+  "homepage": "https://github.com/suxiaoxin/react-drag-sort#readme"
+}
